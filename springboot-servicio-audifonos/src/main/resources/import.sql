@@ -1,0 +1,11 @@
+INSERT INTO audifonos (marca, modelo, bluetooth, precio, created_at) VALUES ('HyperX', 'Cloud I', 0, 1000, NOW());
+INSERT INTO audifonos (marca, modelo, bluetooth, precio, created_at) VALUES ('Sony', 'WH-1000XM4', 1, 3500, NOW());
+INSERT INTO audifonos (marca, modelo, bluetooth, precio, created_at) VALUES ('Bose', 'QuietComfort 35 II', 1, 4500, NOW());
+INSERT INTO audifonos (marca, modelo, bluetooth, precio, created_at) VALUES ('Sennheiser', 'HD 450BT', 1, 3000, NOW());
+INSERT INTO audifonos (marca, modelo, bluetooth, precio, created_at) VALUES ('JBL', 'Live 650BTNC', 1, 2500, NOW());
+INSERT INTO audifonos (marca, modelo, bluetooth, precio, created_at) VALUES ('Beats', 'Studio3', 1, 5000, NOW());
+INSERT INTO audifonos (marca, modelo, bluetooth, precio, created_at) VALUES ('AKG', 'K240', 0, 1200, NOW());
+INSERT INTO audifonos (marca, modelo, bluetooth, precio, created_at) VALUES ('Audio-Technica', 'ATH-M50x', 0, 3200, NOW());
+INSERT INTO audifonos (marca, modelo, bluetooth, precio, created_at) VALUES ('HyperX', 'Cloud Alpha', 0, 2000, NOW());
+INSERT INTO audifonos (marca, modelo, bluetooth, precio, created_at) VALUES ('Logitech', 'G Pro X', 0, 2700, NOW());
+INSERT INTO audifonos (marca, modelo, bluetooth, precio, created_at) VALUES ('Razer', 'Kraken X', 0, 1500, NOW());
